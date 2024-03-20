@@ -1,0 +1,201 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body
+{
+	margin:0px;
+	padding:0px; 
+}
+.mid_section h2{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	background-color: aquamarine;
+	width:400px;
+	box-shadow:12px 12px lightblue;
+	font-size: 50px;
+}
+.mid_section h2:hover{
+	background-color: aqua;
+}
+.search_box
+{
+	position: relative;
+	top:-140px;
+	left:10px;
+	border:0px solid;
+	margin:12px;
+	padding:12px;
+	
+}
+form{
+	display:block;
+}
+#text
+{
+	display:inline-block;
+	border-radius:300px;
+	height:49px;
+	
+}
+#btn
+{
+	border-radius:300px;
+}
+.footer
+{
+	position: relative;
+	top:250px;
+	border:0px solid;
+	height:100px;
+
+}
+.section_design div
+{
+	background-color: aqua;
+
+}
+.listdesign
+{
+	background-color: aqua;
+}
+
+.heading
+{
+	position:relative;
+	top:30px;
+	left:560px;
+	border:0px solid;
+	box-shadow:2px 2px 2px 2px;
+	font-size:200px;
+	width:400px;
+	color:blue;
+	/* background-color: lightblue; */
+}
+.section_design
+{
+	position: relative;
+	top:50px;
+	left:190px;
+	margin:2px;
+	padding:4px;
+	width:300px;
+	background-color: aqua;
+}
+.section_design p{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: large;
+	text-align:left;
+	color:black
+}
+.image_section{
+	float:right;
+	position:relative;
+	top:-30px;
+	left:-170px;
+	box-shadow:1px 1px 1px 1px;
+	border:1px solid blueviolet;
+
+}
+.text
+{
+	/* background-image: url("images.jpeg");
+	background-repeat: repeat-y;
+	background-position:all;
+	width:300px;
+	height:200px; */
+	position: relative;
+	top:50px;
+	left:190px;
+	color:brown;
+	font-size: medium;
+}
+.form_design
+{
+	position: relative;
+	top:50px;
+  left:190px;
+   margin:2px;
+   padding:3px;
+   border: 0px solid;
+   width:300px;
+   background-color:bisque;
+}
+
+.form_design label
+{
+   /* border:1px solid; */
+   border-radius:20px;
+   background-color: grey;
+   color:black;
+}
+.form_design label:hover{
+	background-color: blanchedalmond;
+}
+.form_design input[type=text]
+{
+	border-radius:60px;
+	background-color: beige;
+}
+.form_design input[type=email]
+{
+	border-radius:60px;
+	background-color: beige;
+}
+.form_design select 
+{
+	background-color: rgb(35, 216, 156);
+	width:290px;
+
+}
+.form_design select:hover{
+	background-color:blue;
+}
+#order_form_btn
+{
+	border-radius: 300px;
+	width:290px;
+	color:black;
+	background-color:rgb(73, 127, 208);
+}
+#order_form_btn:hover{
+	background-color:rgb(226, 127, 40);
+}
+.search_box2
+{
+	position: relative;
+	top:90px;
+	left:10px;
+	border:0px solid;
+	
+}
+.search_box2
+{
+    position:relative;
+        top:150px;
+        left:50px;
+	
+}
+.search_box3
+{
+	 
+}
+.contact
+{
+	color:grey;
+}
+.body{
+/*	background-color: beige;*/
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
